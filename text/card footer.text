@@ -1,0 +1,23 @@
+ <footer class="footer">
+        <p class="title-footer">Copyrights @<span>S-aloo</span></p>
+        <div class="social-icons">
+        </div>
+    </footer>
+
+
+
+    ---------------
+
+    
+            <div class="cartoons-card">
+                <div class="cartoons-img">
+                    <img src="" />
+                </div>
+                <div class="cartoons-info">
+                    <p class="cartoons-category">#</p>
+                    <strong class="cartoons-title">
+                        <span>#</span>
+                        <a href="#" class="more-details">مشاهدة</a>
+                    </strong>
+                 </div>
+            </div>
